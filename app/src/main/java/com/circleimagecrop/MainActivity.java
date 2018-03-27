@@ -37,7 +37,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        previewImageView = (ImageView) findViewById(R.id.iv);
+        previewImageView = (ImageView) findViewById(R.id.activity_main_circle_image_view);
 
     }
 
